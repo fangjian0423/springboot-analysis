@@ -5,9 +5,8 @@ import org.springframework.stereotype.Component;
 /**
  * Created by Format on 2017/5/4.
  */
-@Component
-public class SimpleService {
+public class SimpleServiceInImportService {
 
-    private String name = "simple";
+    private String name = "simpleServiceInImportService";
 
 }
