@@ -8,6 +8,7 @@ import org.springframework.context.annotation.ImportResource;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.annotation.PropertySources;
 import spring.study.refresh.context.bean.ImportService;
+import spring.study.refresh.context.listener.MyApplicationListener;
 
 /**
  * Created by Format on 2017/5/3.
@@ -19,6 +20,7 @@ import spring.study.refresh.context.bean.ImportService;
 public class RefreshContextApplication {
     public static void main(String[] args) {
         SpringApplication sa = new SpringApplication(RefreshContextApplication.class);
+        sa.addListeners(new MyApplicationListener());
         sa.run(args);
     }
 }
