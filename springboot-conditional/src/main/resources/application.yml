@@ -1,1 +1,3 @@
-server.host: localhost
+`spring:
+  profiles:
+    active: prod
