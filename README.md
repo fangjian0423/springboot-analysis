@@ -10,4 +10,8 @@ SpringBoot的基础概念以及使用大家可以查询一下网上的资料学�
 4. [SpringBoot源码分析之内置Servlet容器](http://fangjian0423.github.io/2017/05/22/springboot-embedded-servlet-container/)
 5. [SpringBoot源码分析之SpringBoot可执行文件解析](http://fangjian0423.github.io/2017/05/31/springboot-executable-jar/)
 6. [SpringBoot源码分析之工厂加载机制](http://fangjian0423.github.io/2017/06/05/springboot-factory-loading-mechanism/)
+7. [SpringBoot源码分析之配置环境的构造过程](http://fangjian0423.github.io/2017/06/10/springboot-environment-analysis)
 
+另外也会写一些Spring相关的知识：
+
+1. [Spring自定义类扫描器](http://fangjian0423.github.io/2017/06/11/spring-custom-component-provider/)
