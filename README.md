@@ -15,3 +15,4 @@ SpringBoot的基础概念以及使用大家可以查询一下网上的资料学�
 另外也会写一些Spring相关的知识：
 
 1. [Spring自定义类扫描器](http://fangjian0423.github.io/2017/06/11/spring-custom-component-provider/)
+2. [Spring类注册笔记](http://fangjian0423.github.io/2017/06/15/spring-bean-register-note/)
