@@ -13,7 +13,7 @@ import java.util.Arrays;
 /**
  * Created by Format on 2017/6/19.
  */
-@Component
+//@Component
 public class SimpleSmartInstantiationAwareBeanPostProcessor implements SmartInstantiationAwareBeanPostProcessor {
 
     private String name = "simpleServiceForS/mart";
