@@ -12,9 +12,15 @@ SpringBoot的基础概念以及使用大家可以查询一下网上的资料学�
 6. [SpringBoot源码分析之工厂加载机制](http://fangjian0423.github.io/2017/06/05/springboot-factory-loading-mechanism/)
 7. [SpringBoot源码分析之配置环境的构造过程](http://fangjian0423.github.io/2017/06/10/springboot-environment-analysis)
 
-另外也会写一些Spring相关的知识：
+另外也会写一些Spring和SpringBoot相关的文章。
+
+Spring：
 
 1. [Spring自定义类扫描器](http://fangjian0423.github.io/2017/06/11/spring-custom-component-provider/)
 2. [Spring类注册笔记](http://fangjian0423.github.io/2017/06/15/spring-bean-register-note/)
 3. [Spring内部的BeanPostProcessor接口总结](http://fangjian0423.github.io/2017/06/20/spring-bean-post-processor/)
 4. [Spring内置的BeanPostProcessor总结](http://fangjian0423.github.io/2017/06/24/spring-embedded-bean-post-processor/)
+
+SpringBoot：
+
+1. [SpringBoot应用程序的关闭](http://fangjian0423.github.io/2017/06/28/springboot-application-exit/)
