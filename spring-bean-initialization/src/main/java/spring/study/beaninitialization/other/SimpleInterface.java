@@ -1,4 +1,4 @@
-package spring.study.beaninitialization.factorybean;
+package spring.study.beaninitialization.other;
 
 import org.springframework.stereotype.Component;
 

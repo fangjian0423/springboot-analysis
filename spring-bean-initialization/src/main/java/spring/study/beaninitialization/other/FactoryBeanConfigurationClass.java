@@ -1,4 +1,4 @@
-package spring.study.beaninitialization.factorybean;
+package spring.study.beaninitialization.other;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;

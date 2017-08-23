@@ -1,5 +1,0 @@
-spring:
-  profiles:
-    active: prod
-
-my.name: 222

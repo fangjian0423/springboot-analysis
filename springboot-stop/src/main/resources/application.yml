@@ -1,0 +1,35 @@
+endpoints.shutdown.enabled: true
+#禁用密码验证
+endpoints.shutdown.sensitive: true
+
+#验证用户名
+security.user.name: admin
+#验证密码
+security.user.password: secret
+#角色
+management.security.role: SUPERUSER
+
+spring:
+  application:
+    admin:
+      enabled: true
+
+spring.datasource:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/test?useUnicode=true&autoReconnect=true
+  username: root
+  password: root
+  jmx-enabled: true
+  initialSize: 5
+  maxActive: 100
+  minIdle: 5
+  maxIdle: 25
+  maxWait: 10000
+  maxAge: 3600000
+  timeBetweenEvictionRunsMillis: 1800000
+  minEvictableIdleTimeMillis: 1800000
+  testOnBorrow: true
+  testWhileIdle: false
+  testOnReturn: false
+  validationQuery: "SELECT 1"
+
