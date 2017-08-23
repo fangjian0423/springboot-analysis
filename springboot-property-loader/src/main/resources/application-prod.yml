@@ -1,0 +1,9 @@
+spring:
+    profiles: prod
+my.name: 1
+
+---
+
+spring:
+    profiles: dev
+my.name: 2

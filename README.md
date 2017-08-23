@@ -11,6 +11,7 @@ SpringBoot的基础概念以及使用大家可以查询一下网上的资料学�
 5. [SpringBoot源码分析之SpringBoot可执行文件解析](http://fangjian0423.github.io/2017/05/31/springboot-executable-jar/)
 6. [SpringBoot源码分析之工厂加载机制](http://fangjian0423.github.io/2017/06/05/springboot-factory-loading-mechanism/)
 7. [SpringBoot源码分析之配置环境的构造过程](http://fangjian0423.github.io/2017/06/10/springboot-environment-analysis)
+8. [SpringBoot源码分析之日志系统的构造](http://fangjian0423.github.io/2017/08/23/springboot-logging-system/)
 
 另外也会写一些Spring和SpringBoot相关的文章。
 
